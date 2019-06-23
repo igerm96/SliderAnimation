@@ -1,0 +1,4 @@
+.slider{
+    animation: ease-in;
+    transition: transform 300ms ease-in-out;
+}
